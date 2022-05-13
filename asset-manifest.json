@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/supahppy/static/css/main.99423967.css",
+    "main.js": "/supahppy/static/js/main.48229e62.js",
+    "static/js/787.86e1feff.chunk.js": "/supahppy/static/js/787.86e1feff.chunk.js",
+    "static/media/back1.jpg": "/supahppy/static/media/back1.293a7d4924231c892d67.jpg",
+    "static/media/logo.svg": "/supahppy/static/media/logo.75bf972434506e3fe0b2cbbd85e9c6d4.svg",
+    "index.html": "/supahppy/index.html",
+    "main.99423967.css.map": "/supahppy/static/css/main.99423967.css.map",
+    "main.48229e62.js.map": "/supahppy/static/js/main.48229e62.js.map",
+    "787.86e1feff.chunk.js.map": "/supahppy/static/js/787.86e1feff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99423967.css",
+    "static/js/main.48229e62.js"
+  ]
+}
